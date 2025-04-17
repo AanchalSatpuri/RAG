@@ -1,2 +1,11 @@
-langchain-community
-sentence-transformers 
+langchain==0.1.14
+langchain-community==0.0.30
+langchain-core==0.1.36
+sentence-transformers==2.6.1
+transformers==4.38.2
+torch>=2.1.0
+docx2txt==0.8
+pypdf==4.1.0
+beautifulsoup4==4.12.3
+html5lib==1.1
+lxml==5.1.0
