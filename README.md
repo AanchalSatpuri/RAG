@@ -19,7 +19,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system that proce
   ```
 
 ### Directory Structure
-- Place your documents in the `random_files_directory` located at `/Users/aanchal.satpuri/Desktop/projects/Rag/random_files_directory/`.
+- Place your documents in the `random_files_directory` located at `/Users/random_files_directory/`.
 - Update the `UPLOAD_FOLDER` variable in `rag_system.py` if your directory structure is different.
 
 ## Usage
